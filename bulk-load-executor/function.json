@@ -4,7 +4,7 @@
       "name": "name",
       "type": "activityTrigger",
       "direction": "in"
-    }
+    }    
   ],
   "scriptFile": "../dist/bulk-load-executor/index.js"
 }

@@ -10,7 +10,8 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "durable-functions": "^1.5.4"
+    "durable-functions": "^1.5.4",
+    "ts-md5": "^1.2.11"
   },
   "devDependencies": {
     "@azure/functions": "^3.0.0",
